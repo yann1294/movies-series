@@ -13,7 +13,7 @@ export default function Footer() {
             , Using <i className="fab fa-react" /> React JS &amp; Redux JS
             integrated with external movies data API
             <a
-              href="http://www.omdbapi.com/"
+              href="https://www.omdbapi.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
